@@ -1,0 +1,8 @@
+/home/lains/eclipse-workspace/produkt-api/src/main/java/com/example/produktapi/controller/ProductController.java
+/home/lains/eclipse-workspace/produkt-api/src/main/java/com/example/produktapi/ProduktapiApplication.java
+/home/lains/eclipse-workspace/produkt-api/src/main/java/com/example/produktapi/service/ExceptionHandlerAdvice.java
+/home/lains/eclipse-workspace/produkt-api/src/main/java/com/example/produktapi/exception/EntityNotFoundException.java
+/home/lains/eclipse-workspace/produkt-api/src/main/java/com/example/produktapi/exception/BadRequestException.java
+/home/lains/eclipse-workspace/produkt-api/src/main/java/com/example/produktapi/model/Product.java
+/home/lains/eclipse-workspace/produkt-api/src/main/java/com/example/produktapi/repository/ProductRepository.java
+/home/lains/eclipse-workspace/produkt-api/src/main/java/com/example/produktapi/service/ProductService.java
